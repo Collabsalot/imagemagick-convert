@@ -1,1 +1,8 @@
-docs/**/*
+## Ignore documentation
+
+assets/
+node_modules/
+
+## Lint config files
+
+!.eslintrc.js

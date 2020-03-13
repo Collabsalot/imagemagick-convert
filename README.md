@@ -47,13 +47,13 @@ const imgBuffer = await convert({
 
 Original JPEG:
 
-![Original image](./docs/origin.jpg)
+![Original image](assets/origin.jpg)
 
 Converted to PNG and resized:
 
 |fit|fill|crop|
 |---|---|---|
-|![Original image](./docs/fit.jpg)|![Original image](./docs/fill.jpg)|![Original image](./docs/crop.jpg)|
+|![Original image](assets/fit.jpg)|![Original image](assets/fill.jpg)|![Original image](assets/crop.jpg)|
 
 ## API reference
 
